@@ -1,2 +1,2 @@
-# DataMing_Project
+# Data Mining Project
 Using Weka to produce a report focusing on the implementation of machine learning methods
